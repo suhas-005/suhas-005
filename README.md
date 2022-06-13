@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @suhas-005
-- 👀 I’m interested in in Machine Learning, Big Data / Data Engineering and Analytics
+- 👀 I’m interested in in Data Analytics
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on Data Analytics project
 - 📫 You can reach me at http://www.linkedin.com/in/suhas-005 
